@@ -1,0 +1,3 @@
+﻿  Task_Quant_Word.cpp
+D:\Programming\ForGit\Task_Quant_Word\Task_Quant_Word\Task_Quant_Word.cpp(78,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task_Quant_Word.vcxproj -> D:\Programming\ForGit\Task_Quant_Word\x64\Debug\Task_Quant_Word.exe
